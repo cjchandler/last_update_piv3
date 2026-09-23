@@ -1,4 +1,4 @@
-#!/home/carl/Git_Projects/last_update_piv2/envH/bin/python
+#!/home/carl/Git_Projects/last_update_piv3/envH/bin/python
 
 
 #ntfy messaging thing
